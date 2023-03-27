@@ -76,10 +76,9 @@ Studying for creating another world.
 **About me:**
 
 - ❤️ Coding.
-- 💬 Email: linxy59@mail2.sysu.edu.cn
+- 💬 Email: freyue@outlook.com
 - 👁‍🗨 Blog:
-  - https://xichen-blog.vercel.app
-  - https://xichen.pub
+  - http://m.1791147.xyz
 <!-- 
 我的知识图谱论文+代码
   
